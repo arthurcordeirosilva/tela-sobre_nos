@@ -1,0 +1,23 @@
+.container {
+    background-color: rgb(126, 124, 124);
+    padding: 20px;
+    margin: 50px; 
+    display: flex;
+    max-width: 1240px;
+    max-height: 828px;
+}
+.minha-div{
+    background-color: rgb(59, 53, 53);
+    padding: 20px;
+    margin: 50px;
+    color: aliceblue;
+}
+body {
+    background-image : url("img/estrelas.jpeg")
+
+}
+ /*.titulo{
+    display: flex;
+    align-content: center;
+}*/
+
